@@ -1,0 +1,23 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "Playground",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonsal/demo.git"
+  },
+  "author": "Jonas Salomonsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonsal/demo/issues"
+  },
+  "homepage": "https://github.com/jonsal/demo#readme",
+  "devDependencies": {
+    "@types/node": "^22.15.17",
+    "typescript": "^5.8.3"
+  }
+}
