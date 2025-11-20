@@ -1,3 +1,3 @@
-for (var i = 1; i <= 0; i++) {
+for (var i = 1; i <= 20; i++) {
     console.log("Number:" + i);
 }
